@@ -1,0 +1,11 @@
+git clone 		複製github上的東西
+
+dir   			目錄
+
+git status
+
+git add			加入新增檔案
+
+git commit -m "放註解的地方"		更新存檔的功能
+
+git push		上傳到github網站上
